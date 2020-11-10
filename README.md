@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* App deployed on heroku: https://infinite-fortress-25885.herokuapp.com/
